@@ -1,2 +1,2 @@
 # Java
-Este repositório contém uma coleção de exercícios práticos em Java para ajudar você a aprimorar suas habilidades de programação. Cada exercício é projetado para abordar conceitos específicos e desafiar suas habilidades de resolução de problemas em Java.
+Este repositório é uma coleção de exercícios em Java que cobrem uma variedade de tópicos e níveis de dificuldade. Se você é um iniciante em Java ou deseja aprimorar suas habilidades de programação nesta linguagem, este é o lugar certo para começar.
